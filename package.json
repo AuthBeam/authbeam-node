@@ -1,6 +1,6 @@
 {
   "name": "authbeam",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Complete Authentication & Authorization library",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,11 @@
   "repository": {
     "type" : "git",
     "url" : "https://github.com/AuthBeam/authbeam-node.git"
-  }
+  },
+  "keywords": [
+    "auth",
+    "authentication",
+    "authorization",
+    "user management"
+  ]
 }
