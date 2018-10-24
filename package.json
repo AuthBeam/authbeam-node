@@ -4,18 +4,21 @@
   "description": "Complete Authentication & Authorization library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "author": "Kunal Sarkar",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/AuthBeam/authbeam-node.git"
+    "type": "git",
+    "url": "https://github.com/AuthBeam/authbeam-node.git"
   },
   "keywords": [
     "auth",
     "authentication",
     "authorization",
     "user management"
-  ]
+  ],
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  }
 }
